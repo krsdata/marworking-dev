@@ -1,0 +1,370 @@
+/* CSS Document */
+body
+{
+margin:0;
+padding:0;
+font-family: 'Lato', sans-serif;
+}
+img
+{
+max-width:100%;
+}
+a
+{
+text-decoration:none;
+}
+a:hover, a:focus, a:active
+{
+text-decoration:none;
+outline:0;
+}
+li
+{
+list-style:none;
+}
+ul
+{
+padding:0;
+margin:0;
+}
+.top-header
+{
+background:#162230;
+padding:10px 0px;
+}
+.plan-page table
+{
+text-align:center;
+}
+.top-header span
+{
+color:#fff;
+margin-right:20px;
+}
+.top-header ul li
+{
+float:left;
+}
+.top-header ul
+{
+float:right;
+}
+.top-header ul li a
+{
+color:#fff;
+font-size:13px;
+padding:0px 15px;
+}
+.top-header ul li:last-child a
+{
+padding-right:0px;
+}
+ul.header-menu li {
+    float: left;
+}
+ul.header-menu li a {
+  color: #333;
+  display: block;
+  font-size: 15px;
+  margin: 0 10px 6px;
+  padding: 34px 5px;
+  text-transform: uppercase;
+  border-bottom: 5px solid #6284b2;
+}
+ul.header-menu li:nth-child(1) a {
+    border-bottom: 5px solid #25c541;
+}
+ul.header-menu li:nth-child(2) a {
+    border-bottom: 5px solid #5a4485;
+}
+ul.header-menu li:nth-child(3) a {
+    border-bottom: 5px solid #ff0023;
+}
+ul.header-menu li:nth-child(4) a {
+    border-bottom: 5px solid #ff4601;
+}
+ul.header-menu li:nth-child(5) a {
+    border-bottom: 5px solid #ff00ff;
+}
+ul.header-menu li:nth-child(6) a {
+    border-bottom: 5px solid #1850b1;
+}
+ul.header-menu li:nth-child(7) a {
+    border-bottom: 5px solid #59585e;
+}
+ul.header-menu li:nth-child(8) a {
+    border-bottom: 5px solid #71000d;
+}
+ul.header-menu li a:hover
+{
+background:#008fb4;
+color:#fff;
+}
+ul.header-menu li:nth-child(1) a:hover
+{
+background:#25c541;
+color:#fff;
+}
+ul.header-menu li:nth-child(2) a:hover
+{
+background:#5a4485;
+color:#fff;
+}
+ul.header-menu li:nth-child(3) a:hover
+{
+background:#ff0023;
+color:#fff;
+}
+ul.header-menu li:nth-child(4) a:hover
+{
+background:#ff4601;
+color:#fff;
+}
+ul.header-menu li:nth-child(5) a:hover
+{
+background:#ff00ff;
+color:#fff;
+}
+ul.header-menu li:nth-child(6) a:hover
+{
+background:#1850b1;
+color:#fff;
+}
+ul.header-menu li:nth-child(7) a:hover
+{
+background:#59585e;
+color:#fff;
+}
+ul.header-menu li:nth-child(8) a:hover
+{
+background:#71000d;
+color:#fff;
+}
+
+
+ul.header-menu li:last-child a
+{
+padding-right:0px;
+}
+ul.header-menu {
+    float: right;
+}
+.banner {
+    position: relative;
+}
+.banner-content.text-center {
+    position: absolute;
+    width: 100%;
+    top: 20%;
+    z-index: 999;
+    color: #fff;
+}
+.banner-content.text-center h2 {
+    font-size: 30px;
+}
+.banner-content.text-center h1 {
+    font-weight: 600;
+}
+.banner-content.text-center h3 {
+    text-transform: uppercase;
+}
+.banner-content.text-center a {
+    background: #008fb4;
+    padding: 12px;
+    margin-top: 15px !important;
+    display: block;
+    width: 165px;
+    border-radius: 5px;
+    font-size: 21px;
+    color: #fff;
+    margin: 0 auto;
+}
+.banner-join {
+    text-align: center;
+    float: left;
+    width: 100%;
+}
+.banner-content.text-center a:hover
+{
+background:#009988;
+}
+.about-us {
+    padding: 40px 0px;
+    text-align: center;
+}
+.about-us h2 {
+    margin-top: 0px;
+}
+.about-us p {
+    font-size: 18px;
+    color: #484848;
+}
+.about-us a {
+    background: #008fb4;
+    padding: 12px;
+    margin-top: 15px !important;
+    display: block;
+    width: 165px;
+    border-radius: 5px;
+    font-size: 21px;
+    color: #fff;
+    margin: 0 auto;
+}
+.about-us a:hover
+{
+background:#009988;
+}
+.plan-page {
+    padding: 40px 0px;
+}
+.plan-page {
+    padding: 40px 0px;
+}
+.plan-page h2
+{
+text-align:center;
+}
+.plan-page {
+    padding: 40px 0px;
+    background:url(../img/banner3.jpg);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.plan-page h2 {
+    margin-top: 0px;
+    margin-bottom: 35px;
+	color:#fff;
+}
+tr.main-head-plan {
+    background: #008fb4;
+    color: #fff;
+    border: 1px solid #01c7b1;
+}
+.plan-page tr {
+    border: 1px solid #01c7b1;
+    height: 65px;
+}
+tr.plan-footer
+{
+    background: #008fb4;
+    color: #fff;
+    border: 1px solid #01c7b1;
+
+}
+.terms-co {
+    padding: 40px 0px;
+    background: #f9f9f9;
+}
+.terms-co h2 {
+text-align:center;
+margin-top:0px;
+margin-bottom:30px;
+}
+.tnc-head {
+    text-align: center;
+    font-size: 18px;
+    color: #fff;
+    background: #008fb4;
+    padding: 10px;
+}
+.tnc-content {
+    padding: 15px;
+    background: #eee;
+  
+}
+.plan-page table td {
+    padding: 15px 15px;
+}
+.plan-page td span:first-child {
+    float: left;
+    width: 70%;
+}
+.plan-page td span:nth-child(2) {
+    float: right;
+    margin: 0;
+    width: 27%;
+    text-align: center;
+}
+.about-us h2 span {
+    color: #008fb4;
+}
+
+
+
+.footer-widgets-wrapper {
+    background: #162230 ;
+    color: #ffffff;
+    float: left;
+    padding: 55px 0 10px;
+    position: relative;
+    width: 100%;
+}
+
+#footer .widget-title {
+    border-bottom: 3px solid #2e2e2e;
+    color: #eef1f4;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 25px;
+    padding-bottom: 12px;
+    position: relative;
+}
+#footer .widget-title .small-line {
+    display: block;
+    height: 3px;
+    left: 0;
+    margin: 12px 0 0;
+    position: absolute;
+    width: 100px;
+}
+
+#footer .widget ul {
+    float: left;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+#footer .recent-property-widget ul li {
+    border-bottom: 1px dashed rgba(255, 255, 255, 0.15);
+    display: block;
+    position: relative;
+}
+#footer a {
+    color: #fff;
+    font-size: 14px;
+    line-height: 28px;
+}
+.widget {
+    float: left;
+    margin: 0;
+    padding: 0 0 40px;
+    position: relative;
+    width: 100%;
+}
+.copyright {
+    background-color: #000;
+    clear: both;
+    float: left;
+    padding: 25px 0;
+    width: 100%;
+}
+.footer-links {
+    float: right;
+    margin: 0;
+}
+.footer-links li {
+    display: inline;
+    float: left;
+    padding-bottom: 0;
+}
+
+.footer-links li a {
+    color: #92a7bb;
+    font-size: 13px;
+    line-height: 22px;
+    padding: 0 7px;
+}
+.copyright p {
+    float: left;
+    margin-bottom: 0;
+}
